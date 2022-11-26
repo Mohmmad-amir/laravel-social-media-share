@@ -1,3 +1,4 @@
+read this file first as raw code
 # laravel-social-media-share
 
 
